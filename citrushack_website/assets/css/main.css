@@ -2421,7 +2421,7 @@ table.alt tbody tr td {
 }
 
 .wrapper.style1 {
-    background-color: #f08404;
+    background-color: #2C3D4D;
     color: #FFF;
 }
 
@@ -2590,16 +2590,16 @@ table.alt tbody tr td {
 }
 
 .wrapper.style2 {
-    background-color: #EEE;
-    color: #000;
+    background-color: #4B6883;
+    color: #FFF;
 }
 
 .wrapper.style2 input, .wrapper.style2 select, .wrapper.style2 textarea {
-    color: #000;
+    color: #FFF;
 }
 
 .wrapper.style2 a {
-    color: #000;
+    color: #FFF;
 }
 
 .wrapper.style2 a:hover {
@@ -2611,7 +2611,7 @@ table.alt tbody tr td {
 }
 
 .wrapper.style2 h1, .wrapper.style2 h2, .wrapper.style2 h3, .wrapper.style2 h4, .wrapper.style2 h5, .wrapper.style2 h6 {
-    color: #000;
+    color: #FFF;
 }
 
 .wrapper.style2 blockquote {
