@@ -12,16 +12,16 @@ h1, h2, h3 {
 }
 
 h1 {
-    font-size: 12px;
+    font-size: 16px;
     margin: 0px;
     text-transform: uppercase;
 }
 
 h5 {
-    font-size: 10px;
+    font-size: 14px;
     color: #333333;
-    padding-bottom: 2px;
-    padding-top: 2px;
+    padding-bottom: 5px;
+    padding-top: 5px;
     font-weight: 500;
     margin: 0px;
 }
@@ -36,9 +36,9 @@ p {
 a {
     color: #f05204;
     text-decoration: none;
-    font-size: 10px;
-    padding-bottom: 2px;
-    padding-top: 2px;
+    font-size: 14px;
+    padding-bottom: 5px;
+    padding-top: 5px;
 }
 
 a:hover {
@@ -66,14 +66,14 @@ a:hover {
 
 .avatar {
     float: left;
-    width: 50px;
+    width: 60px;
 }
 
 .profile {
     float: left;
     border-left: 2px solid #f05204;
-    padding-left: 20px;
-    margin-left: 20px;
+    padding-left: 10px;
+    margin-left: 10px;
 }
 
 .profile.without-border {
